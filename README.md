@@ -26,11 +26,9 @@ Task 3: Test the MFA requirement for the user.
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9df6e855-7701-476b-abe7-de7886a01e11">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/6aba3fd5-5c93-49f7-bc29-da36cc1d3efb">
-
-
+<img width="1439" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/15312b04-f4b0-4e3a-859f-9fda17058a8b">
 </p>
+
 <p>
 Task 1.
 </p>
