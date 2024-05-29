@@ -42,75 +42,29 @@ Task 1.
 <img width="1440" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/a8342481-d220-4c9a-9ac8-bc41cdb79ead">
 
 
-
 </p>
 <p>
 Task 2.
 </p>
 <br />
 
+
 <p>
 <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9206c676-f21c-4a06-9c6d-05139dfed1ac">
-
-
 </p>
+
 <p>
 Task 3.
 </p>
 <br />
 
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/390e9ab3-52d3-4ad5-a0bf-3e4865ffadcd">
 
+<p>
+<img width="1440" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/c062b16d-e557-4eb8-bee8-4e0f5c6c082b">
+<img width="1440" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/1c904ca1-3739-41ce-a86f-e167c1857a3e">
 </p>
+
 <p>
 Task 4.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/79a1d5ad-a6ac-4e32-88d3-013c0b1307da">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/7676b0b4-08d0-445f-96e8-58768ec62a93">
-
-
-</p>
-<p>
-Task 5.
-</p>
-<br />
-
-<p>
-<img <img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9ed3a75d-6419-4e95-9eda-1dd561649bcf">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/ff3d347e-7eb5-43c2-ae7c-f56f6ca623b1">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0b1276c1-4523-4767-a8c4-99fd12465a4b">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/18fbf97c-0866-4118-a910-7a5a1cf4fcd0">
-
-
-</p>
-<p>
-Task 6.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/bd9bca2a-2de2-4c81-8a09-bcabf3c4586e">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/0bc5f2dd-9fdb-4d12-85b8-dcf266d15e99">
-
-
-
-</p>
-<p>
-Task 7.
-</p>
-<br />
-
-<p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/32b8c522-2a5f-4518-aded-26eed4bc70cf">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/9fc8b287-7d91-4a4c-baee-eaeb30dd282a">
-
-
-</p>
-<p>
-Task 8.
 </p>
 <br />
