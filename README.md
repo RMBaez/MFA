@@ -3,7 +3,7 @@
 </p>
 
 <h1> Implement and Test Multifactor Authentication(Azure) </h1>
-This tutorial outlines the foundation to understanding and implementing Azure relational databases specifically in the context of MySQL using the fully managed database offerings available through Microsoft Azure.
+This tutorial outlines the usage of Azure AD tenant to enable Azure AD Multi-Factor Authentication for a User.
 <br />
 
 
@@ -11,22 +11,17 @@ This tutorial outlines the foundation to understanding and implementing Azure re
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure AD
-- Bash
-- Firewall
-- MySQL
-
+- MFA
 
 
 <h2>Deployment and Configuration Steps</h2>
 
-- Task 1:  Create your own resource group which you will use throughout the project and demonstrate your understanding of the importance of Resource Groups in resource management
-- Task 2: Create an Azure Database for MySQL Server using the Azure Portal
-- Task 3: Configure access through the server firewall based on your IP address
-- Task 4: Connect to and authenticate with the Azure Database for MySQL Server
-- Task 5: Create a new database, load sample data and run queries against the data using the MySQL command line tool
-- Task 6: Update and query data in the new database and restore data to a point in time
-- Task 7: Restore the database to a specific point in time
-- Task 8: Clean up and delete unwanted resources to reduce costs
+Task 1: Create a user AZ500User1 who has joined your organization as an employee.
+
+Task 2: Configure MFA for this user.
+
+Task 3: Test the MFA requirement for the user.
+
 
 <h2>Deployment and Configuration Steps</h2>
 
