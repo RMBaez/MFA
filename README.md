@@ -34,10 +34,13 @@ Task 1.
 </p>
 <br />
 
+
 <p>
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/8ec97307-1c0c-437c-935c-dd1c764e602f">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/d99e7d00-cad4-4742-8aaf-0b8279f67713">
-<img width="1440" alt="image" src="https://github.com/RMBaez/configure-database/assets/170957530/69704a49-bc86-4b59-97e5-26ede7edf76c">
+<img width="1439" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/792b1b76-a160-4e62-8ab9-5f663c1f1a73">
+<img width="1439" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/46506a1b-efcf-4a61-a83d-976debc95711">
+<img width="1440" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/69e33cfd-a99e-46a0-8547-30703903ba63">
+<img width="1440" alt="image" src="https://github.com/RMBaez/MFA/assets/170957530/a8342481-d220-4c9a-9ac8-bc41cdb79ead">
+
 
 
 </p>
